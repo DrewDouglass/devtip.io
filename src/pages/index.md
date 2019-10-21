@@ -5,17 +5,15 @@ image: /img/home-jumbotron.jpg
 heading: A Place For All Web Developers
 subheading: Web Development Tips & Tricks
 mainpitch:
-  title: Why Kaldi
+  title: '`whoami`'
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Hi! I'm Drew Douglass and I am a Senior Web Developer. I created DevTip.io
+    as a place to post useful tips and tricks in the hopes others enjoy them
+    too. If you have any feedback or questions, please contact me. 
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Whether you're a beginner or an expert, I post tips, tricks, and articles for
+  all skill levels. After all, even those of us that have been doing this for a
+  very long time often need to go back to the basics.
 intro:
   blurbs:
     - image: /img/coffee.png
